@@ -1,0 +1,13 @@
+Proline Quantification Protocol
+
+Parveen and Siddiqui, (2021) method for the determination of Proline content was followed.
+200mg of fresh leaves and root material was homogenized in 3ml of 3% sulphosalicylic acid
+and then kept overnight at 5º C. The suspension was then centrifuged at 3000 rpm for 5 minutes.
+After centrifugation, acidic ninhydrin was added to 2ml of the supernatant in test tubes. The
+test tubes were then heated in water bath at 100º C for 1 hr. After that, the mixture was cooled,
+and the cooled mixture was extracted with 4ml toluene using a separate funnel. Toluene was
+used as blank and Optical density was observed at 520nm against blank using
+spectrophotometer (SPECORD 200 Plus). The preparation of acid ninhydrin reagent was
+carried out by mixing 1.25 g of ninhydrin in 20 ml of 6M phosphoric acid and 30 ml of glacial
+acetic acid with agitation, until dissolved. This reagent can remain stable for at least 24 hrs.
+For standard curve, different L-PROLINE concentrations were used.
